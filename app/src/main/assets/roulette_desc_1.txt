@@ -1,0 +1,21 @@
+Game Mechanics
+European Roulette Pro is played on a single zero roulette table with 36 numbered pockets. The table offers the expected betting options of 1-18 and 19-36, 1st, 2nd and 3rd pocket 12’s, Evens & Odds and Red & Black bets.
+
+Before you spin the wheel simply select the size of your chip from the selector below. Chips range in size from 1 up to 100. Click on a predetermined bet box or any number (0-36) on the table.
+
+Placing a bet on the centre of a number will payout 35:1 should that be the number that the ball lands on. It is, however, possible to split your risk, but also your reward, by placing a chip on a dividing wall between 2 numbers (called a Split) or the corner of 4 numbers (called a Corner). This will ensure you receive a payout if any of those is called but reduces your return to 11:1 and 8:1 respectively.
+
+For new players, the safer bet might be, to begin with, the 50/50 bet boxes like 1-18/19-36, Red/Black and Even/Odd. These essentially amount to a coin flip with the games single zero lowering the odds little below 50%. The return on these bets is, however, 1:1 so little risked and little gained.
+
+Bonus Features
+European Roulette Pro does not include special features in terms of bonus games or features modes, but it does offer an interesting selection of tools to help you manage your time at the table.
+
+Special Bets
+The world of roulette is replete with betting techniques and patterns. Clicking on the star symbol on the control panel will bring up the Special Bets menu. Rather than having to remember complicated patterns this menu allows you play patterns such as Voisins du Zero, Finales en Plein, Orphelins en Plein and several others with a click of your mouse.
+
+There is also an additional column to the left where you can create and save your own preferred betting patterns for future ease of use.
+
+Statistics
+Clicking on the graph-based Statistics icon will open the games stats menu. Here you will be shown an interesting selection of data points around your gameplay. The hot and cold numbers for your session, % hits on Red, Black, Odd and Even, as well as a chart showing the most commonly hit areas of the wheel.
+
+While this is a game of chance, these stats will help you decide whether or not to trust the odds or go with an unexpected bet.

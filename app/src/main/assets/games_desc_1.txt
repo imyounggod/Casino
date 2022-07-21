@@ -1,0 +1,13 @@
+How to play
+Players need to set their wagers at the beginning of every round. Choose one of the available coin values, and then place them on one of the two main bets and the side bet. Ezugi’s interface allows you to undo your last bet, reset the whole thing, or save your favourite bets. All bets on the betting board when the timer runs out will be accepted and played.
+
+After the betting period ends, the dealer draws the first card to serve as a Joker. Then, they will proceed to draws cards. First in the Bahar position, then swapping to Andar, then back to Bahar. Cards being drawn in different positions continues until a card showing the same value as the joker is drawn. If you correctly guessed the position where the matching card would be drawn, you will be granted a cash prize.
+
+On top of that, the developers also added a statistics table in Andar Bahar. It tells us the breakdown of the last few drawings. It gives us information on what bets were last to win and how frequently said wins occurred. This is useful information if want to try and gameplay trends.
+
+Gameplay options
+There's nothing too fancy as far as innovations to make your gaming more efficient. After seeing the results of a wager or set of wagers, you can press the “Rebet” button to make the exact same bets again. Or you can double down with the “Rebet X2” feature.
+
+The settings menu is pretty austere with your choice of just two graphical themes. You can kill the sound or music if you wish. The only other option is marked “label,” and unchecking it removes the text attached to some of the interface elements.
+
+The only thing really missing here is an auto-play function. Clicking “Rebet” multiple times can get tedious. This is a minor point though and doesn't really detract too much from the game.

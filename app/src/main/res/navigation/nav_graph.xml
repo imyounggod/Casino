@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/casinoFragment">
+    <fragment
+        android:id="@+id/casinoFragment"
+        android:name="com.example.casino.ui.casino.CasinoFragment"
+        android:label="CasinoFragment">
+
+        <action
+            android:id="@+id/action_casinoFragment_to_slotsFragment"
+            app:destination="@id/slotsFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+        <action
+            android:id="@+id/action_casinoFragment_to_tableGamesFragment"
+            app:destination="@id/tableGamesFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+        <action
+            android:id="@+id/action_casinoFragment_to_roulettesFragment"
+            app:destination="@id/roulettesFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/slotsFragment"
+        android:name="com.example.casino.ui.slots.SlotsFragment"
+        android:label="SlotsFragment">
+        <action
+            android:id="@+id/action_slotsFragment_to_slotDetailsFragment"
+            app:destination="@id/slotDetailsFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/slotDetailsFragment"
+        android:name="com.example.casino.ui.slots.details.SlotDetailsFragment"
+        android:label="SlotDetailsFragment" />
+
+    <fragment
+        android:id="@+id/tableGamesFragment"
+        android:name="com.example.casino.ui.table_games.TableGamesFragment"
+        android:label="TableGamesFragment">
+        <action
+            android:id="@+id/action_tableGamesFragment_to_tableGameDetailsFragment"
+            app:destination="@id/tableGameDetailsFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/tableGameDetailsFragment"
+        android:name="com.example.casino.ui.table_games.details.TableGameDetailsFragment"
+        android:label="TableGameDetailsFragment" />
+    <fragment
+        android:id="@+id/roulettesFragment"
+        android:name="com.example.casino.ui.roulettes.RoulettesFragment"
+        android:label="RoulettesFragment">
+        <action
+            android:id="@+id/action_roulettesFragment_to_rouletteDetailsFragment"
+            app:destination="@id/rouletteDetailsFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/rouletteDetailsFragment"
+        android:name="com.example.casino.ui.roulettes.details.RouletteDetailsFragment"
+        android:label="RouletteDetailsFragment" />
+    <fragment
+        android:id="@+id/sportFragment"
+        android:name="com.example.casino.ui.sport.SportFragment"
+        android:label="SportFragment" />
+
+
+</navigation>

@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Casino</string>
+    <string name="request_error_code">Request error, response code: %1$d</string>
+    <string name="request_error_data_is_null">Data is null</string>
+    <string name="request_error_unauthorised">Unauthenticated or unauthorized, detailed info:%1$s</string>
+
+    <string name="slots_description">A slot machine, vending machine, coin machine, fruit machine - these are all synonyms for slot machines that have long gained popularity among a wide audience. It is a key subject of any gambling establishment, even in the online world.</string>
+    <string name="table_games_description">Many visitors to gambling resources prefer to play slot machines and video slots instead of casino table games. But many of the games are no less exciting than playing on slots, and especially after the introduction of bitcoin table games online began.</string>
+    <string name="roulette_description">To maximize profits, including earnings in the field of gambling   entertainment, fans of digital technologies are constantly exploring new   niches and directions for their implementation. Most of all, gambling fans pay attention to roulette.</string>
+
+    <string name="slot_1_name">243 Crystal Fruits</string>
+    <string name="slot_2_name">243 Crystal Fruits Reversed</string>
+    <string name="slot_3_name">3 Corsairs</string>
+    <string name="slot_4_name">Anksunamun: \nthe queen of Egypt</string>
+    <string name="slot_5_name">Arabian Tales</string>
+    <string name="slot_6_name">Aztec Temple</string>
+    <string name="slot_7_name">BLACKBEARD\'S QUEST \nMINI GAME</string>
+    <string name="slot_8_name">Bamboo Bear</string>
+    <string name="slot_9_name">Bastet and Cats</string>
+    <string name="slot_10_name">Benny\'s the\nBiggest game</string>
+    <string name="slot_11_name">Black Mummy</string>
+    <string name="slot_12_name">Book Of Spells</string>
+    <string name="slot_13_name">Book of Egypt</string>
+    <string name="slot_14_name">Caishens Gifts</string>
+    <string name="slot_15_name">CanCan Saloon</string>
+    <string name="slot_16_name">Carnaval do Rio</string>
+    <string name="slot_17_name">Catrina, Amor Eterno</string>
+    <string name="slot_18_name">Chilli Fiesta</string>
+    <string name="slot_19_name">Chinese Tigers</string>
+    <string name="slot_20_name">Cinderella</string>
+
+    <string name="table_game_1_name">Andar Bahar</string>
+    <string name="table_game_2_name">Baccarat</string>
+    <string name="table_game_3_name">Baccarat Mini</string>
+    <string name="table_game_4_name">Baccarat \nNo Commissio</string>
+    <string name="table_game_5_name">Baccarat Pro</string>
+    <string name="table_game_6_name">Baccarat Supreme \nNo Commission</string>
+    <string name="table_game_7_name">Baccarat VIP</string>
+    <string name="table_game_8_name">Black Jack</string>
+    <string name="table_game_9_name">Black Jack VIP</string>
+    <string name="table_game_10_name">Blackjack Classic</string>
+    <string name="table_game_11_name">Blackjack Classic \nPerfect Pairs</string>
+    <string name="table_game_12_name">Blackjack \nSupreme Multi Hand \nPerfect Pairs</string>
+    <string name="table_game_13_name">Blackjack Supreme \nSingle Hand \nPerfect Pairs</string>
+    <string name="table_game_14_name">Casino Hold\'em</string>
+    <string name="table_game_15_name">Dragon Tiger</string>
+    <string name="table_game_16_name">European Roulette</string>
+    <string name="table_game_17_name">High Hand \nHold\'em Poker</string>
+    <string name="table_game_18_name">OneTouch</string>
+    <string name="table_game_19_name">In Between Poker</string>
+    <string name="table_game_20_name">Russian Poker</string>
+
+    <string name="roulette_1_name">European Roulette</string>
+    <string name="roulette_2_name">Roulette</string>
+</resources>
